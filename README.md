@@ -7,4 +7,6 @@
 <p>- HTML</p>
 <p>- CSS</p>
 <p>- JAVA SCRIPT</p>
+<br>
+<h3>Site está responsivo podendo ser utilizado em computadores e celulares.</h3>
 <img src= "https://github.com/thiagogirotto85/Mario-Bros/blob/main/Mobile%20e%20Desktop.png?raw=true"/>
