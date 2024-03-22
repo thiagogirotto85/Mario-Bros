@@ -9,5 +9,5 @@
 <br>
 <h3>Site está responsivo podendo ser utilizado em computadores e celulares.</h3>
 <img src= "https://github.com/thiagogirotto85/Mario-Bros/blob/main/Mobile%20e%20Desktop.png?raw=true"/>
-<p>Esse projeto foi elaborado para empresas ou pessoas que fazem trabalho de manutenção em casas, empresas etc. O usuario pode utilizar este site para mostrar seu trabalho e tambem até mesmo para fazer os agendamentos dos serviços prestados.</p>
+<p width= 50px >Esse projeto foi elaborado para empresas ou pessoas que fazem trabalho de manutenção em casas, empresas etc. O usuario pode utilizar este site para mostrar seu trabalho e tambem até mesmo para fazer os agendamentos dos serviços prestados.</p>
 
